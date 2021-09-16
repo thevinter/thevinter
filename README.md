@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+Hello! My name is Nikita Brancatisano and I'm a software engineer from Italy. Mostly building useless but fun things. You can probably find me somewhere refactoring my code and screaming at myself
 
-<!--
-**thevinter/thevinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building microservices architectures for Virgin Active
+- 🌱 I’m currently learning everything there is to learn. The world is full of new technologies and there is no time to learn them all but i'm trying
 
-Here are some ideas to get you started:
+- 💬 Ask me about videogames, fun projects, new languages and whatever is interesting in general
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+  * nikita.brancatisano@ieee.org for Academic/Commercial offers. 
+  * @thevinter on Telegram if you want to chat
+  
+- 😄 Pronouns: he / him
+
+
+**Psst!** I run a Dungeons & Dragons blog at [leveldrain.com](leveldrain.com) and I'm up to play. Hmu if you want a oneshot!
