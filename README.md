@@ -13,4 +13,6 @@ Hello! My name is Nikita Brancatisano and I'm a software engineer from Italy. Mo
 - 😄 Pronouns: he / him
 
 
-**Psst!** I run a Dungeons & Dragons blog at [leveldrain.com](leveldrain.com) and I'm up to play. Hmu if you want a oneshot!
+**Psst!** I run a Dungeons & Dragons blog at [leveldrain.com](https://leveldrain.com) and I'm up to play. Hmu if you want a oneshot!
+
+For other stuff: [blog.thevinter.com](blog.thevinter.com)
