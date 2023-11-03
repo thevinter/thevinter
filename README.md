@@ -7,7 +7,7 @@ Hello! My name is Nikita Brancatisano and I'm a software engineer from Italy. Mo
 - 💬 Ask me about videogames, fun projects, new languages and whatever is interesting in general
 
 - 📫 How to reach me: 
-  * nikita.brancatisano@ieee.org for Academic/Commercial offers. 
+  * contact@thevinter.com for Academic/Commercial offers. 
   * @thevinter on Telegram if you want to chat
   
 - 😄 Pronouns: he / him
