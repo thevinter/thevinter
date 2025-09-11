@@ -3,9 +3,8 @@ Modernizing COBOL applications as a Senior Consultant at [Delotte innoWake](http
 <br/>
 
 ### links:
-[my website](thevinter.com)
-
-[ttrpg blog](leveldrain.com)
+- [my website](thevinter.com)
+- [my ttrpg blog](leveldrain.com)
 
 <br/>
 
