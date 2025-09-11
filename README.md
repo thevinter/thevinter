@@ -1,11 +1,14 @@
-senior consultant at [Delotte innoWake](https://appmod.de)
+Modernizing COBOL application as a Senior Consultant at [Delotte innoWake](https://appmod.de)
+
+<br/>
+
 
 [my website](thevinter.com)
 
 [ttrpg blog](leveldrain.com)
 
 <br/>
-<br/>
+
 
 ### contacts:
 - contact[at]thevinter.com
