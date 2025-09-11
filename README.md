@@ -1,4 +1,4 @@
-Modernizing COBOL application as a Senior Consultant at [Delotte innoWake](https://appmod.de)
+Modernizing COBOL applications as a Senior Consultant at [Delotte innoWake](https://appmod.de)
 
 <br/>
 
